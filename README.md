@@ -22,4 +22,9 @@ https://wave.webaim.org/report#/https://haydenknight88.github.io/musical-funicul
 - Google Font: SUSE MONO
 - AI: Chatgpt mini 5
 
+## Permalinks
+try/catch issue: https://github.com/haydenknight88/musical-funicular-delta/issues/1#issue-3635221134
+
+text-based UI: https://github.com/haydenknight88/musical-funicular-delta/issues/2#issue-3635237243
+
 
